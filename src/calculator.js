@@ -1,3 +1,4 @@
+// Arithmetic operations for the Node.js CLI calculator.
 function addition(a, b) { return a + b; }
 function subtraction(a, b) { return a - b; }
 function multiplication(a, b) { return a * b; }
